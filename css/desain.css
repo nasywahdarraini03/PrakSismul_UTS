@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+#preview {
+    margin-top: 20px;
+    text-align: center;
+}
+
+button {
+    display: block;
+    margin: 20px auto;
+}
